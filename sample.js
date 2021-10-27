@@ -1,1 +1,1 @@
-console.log("uwu")
+console.log("sample");
